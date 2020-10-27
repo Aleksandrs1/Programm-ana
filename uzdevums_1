@@ -1,0 +1,11 @@
+b = 'Labdien'
+b2 = 'Skola'
+print(b)
+print(b2)
+print(b , b2)
+#Teksta mainīgā lielums/ simbolu skaits teksta mainīgajā
+
+print('b[2:4]:' ,b[: :-1])
+print('b[2:4]:' ,b[2:5])
+print(len(b))
+print(len(b2))
